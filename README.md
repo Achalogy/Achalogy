@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 my name is Miguel Vargas (Achalogy)</h1>
-<h2 align="center">An autodidact Software Developer from Colombia</h2>
+<h2 align="center">A 16 years old autodidact Software Developer from Colombia</h2>
 
 * 💻 🎄 I’m currently participating in [adventJS](https://adventjs.dev/es)
 * 🌍  I'm based in Tunja, Colombia.
