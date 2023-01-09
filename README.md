@@ -8,6 +8,10 @@
 * 🧩  Problem Solver (I love them)
 * 🌱  Learning Go
 
+<div align="center">
+  <img src="https://www.codewars.com/users/Achalogy/badges/large" />
+</div>
+
 <h2 align="center">Languages</h2>
 
 <div align="center">
