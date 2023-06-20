@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋 my name is Miguel Vargas (Achalogy)</h1>
-<h2 align="center">A 16 years old autodidact Software Developer from Colombia</h2>
+<h2 align="center">A 17 years old autodidact Software Developer from Colombia</h2>
 
-* 💻 🎄 I’m currently participating in [adventJS](https://adventjs.dev/es)
-* 🌍  I'm based in Tunja, Colombia.
+* 🌍  Bogota, Colombia.
 * ✉️  You can contact me at [achalogy@gmail.com](mailto:achalogy@gmail.com )
 * 🧠  I'm a fast learner
 * 🧩  Problem Solver (I love them)
-* 🌱  Learning Go
+* 🌱  Ingieneria de Sistemas - PUJ
 
 <div align="center">
   <img src="https://www.codewars.com/users/Achalogy/badges/large" />
