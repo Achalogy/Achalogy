@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 my name is Miguel Vargas (Achalogy)</h1>
-<h2 align="center">A 17 years old autodidact Software Developer from Colombia</h2>
+<h2 align="center">A 18 years old autodidact Software Developer from Colombia</h2>
 
 * 🌍  Bogota, Colombia.
 * ✉️  You can contact me at [achalogy@gmail.com](mailto:achalogy@gmail.com )
 * 🧠  I'm a fast learner
 * 🧩  Problem Solver (I love them)
-* 🌱  Ingieneria de Sistemas - PUJ
+* 🌱  Ingieneria de Sistemas - PUJ Segundo Semestre
 
 <div align="center">
   <img src="https://www.codewars.com/users/Achalogy/badges/large" />
