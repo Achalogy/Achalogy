@@ -5,7 +5,7 @@
 * ✉️  You can contact me at [achalogy@gmail.com](mailto:achalogy@gmail.com )
 * 🧠  I'm a fast learner
 * 🧩  Problem Solver (I love them)
-* 🌱  Ingieneria de Sistemas - PUJ Segundo Semestre
+* 🌱  Ingeneria de Sistemas - PUJ Segundo Semestre
 
 <div align="center">
   <img src="https://www.codewars.com/users/Achalogy/badges/large" />
