@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 my name is Miguel Vargas (Achalogy)</h1>
-<h2 align="center">A 18 years old autodidact Software Developer from Colombia</h2>
+<h2 align="center">A 19 years old autodidact Software Developer from Colombia</h2>
 
 * 🌍  Bogota, Colombia.
 * ✉️  You can contact me at [achalogy@gmail.com](mailto:achalogy@gmail.com )
