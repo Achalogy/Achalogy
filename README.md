@@ -2,10 +2,11 @@
 <h2 align="center">A 19 years old autodidact Software Developer from Colombia</h2>
 
 * 🌍  Bogota, Colombia.
+* 💻  ACM - Programación Competitiva - Full Stack
 * ✉️  You can contact me at [achalogy@gmail.com](mailto:achalogy@gmail.com )
 * 🧠  I'm a fast learner
 * 🧩  Problem Solver (I love them)
-* 🌱  Ingeneria de Sistemas - PUJ Cuarto Semestre
+* 🌱  Ingeneria de Sistemas - PUJ Quinto Semestre
 
 <div align="center">
   <img src="https://www.codewars.com/users/Achalogy/badges/large" />
